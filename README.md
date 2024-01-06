@@ -39,3 +39,6 @@ choices based on preferences by previous audiences. Additionally, another bar gr
 yearly average rating between genres and would help users understand the popularity of different
 movies and time periods. Overall, the database should allow users and influence them to choose
 the type of movie to watch based on the visualizations provided.
+
+
+# Note : To run the analytical module on your pc you need to create a movies.ini file on your laptop/PC
